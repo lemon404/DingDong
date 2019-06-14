@@ -1,19 +1,19 @@
 {
-    "name": "lemon404/dingdong",
+    "name": "sashimin/dingdong",
     "description": "A library and software for sending and receiving packets.",
     "type": "project",
     "authors": [
         {
-            "name": "lemonade12",
-            "email": "hi.lemonade12@gmail.com"
+            "name": "Sashimi",
+            "email": "mail@sashimi.xyz"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "lemonade\\DingDong\\packets\\": "packets/",
-			"lemonade\\DingDong\\utils\\": "utils/",
-            "lemonade\\DingDong\\network\\": "network/"
+            "sashimi\\DingDong\\packets\\": "packets/",
+			"sashimi\\DingDong\\utils\\": "utils/",
+            "sashimi\\DingDong\\network\\": "network/"
         }
     }
 }
