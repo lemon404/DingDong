@@ -1,9 +1,9 @@
 <?php
 
-namespace lemonade\DingDong\packets\protocol;
+namespace sashimi\DingDong\packets\protocol;
 
-use lemonade\DingDong\packets\protocol\DataPacket;
-use lemonade\DingDong\packets\protocol\PacketType;
+use sashimi\DingDong\packets\protocol\DataPacket;
+use sashimi\DingDong\packets\protocol\PacketType;
 
 class CreateSessionRequestPacket extends DataPacket implements PacketType{
 

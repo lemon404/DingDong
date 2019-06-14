@@ -1,8 +1,8 @@
 <?php
 
-namespace lemonade\DingDong\network;
+namespace sashimi\DingDong\network;
 
-use lemonade\DingDong\utils\Address;
+use sashimi\DingDong\utils\Address;
 
 class Session{
 

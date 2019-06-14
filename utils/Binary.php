@@ -1,8 +1,8 @@
 <?php
 
-namespace lemonade\DingDong\utils;
+namespace sashimi\DingDong\utils;
 
-use lemonade\DingDong\utils\BinaryUtil;
+use sashimi\DingDong\utils\BinaryUtil;
 
 class Binary{
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace lemonade\DingDong\packets\protocol;
+namespace sashimi\DingDong\packets\protocol;
 
-use lemonade\DingDong\packets\protocol\DataPacket;
+use sashimi\DingDong\packets\protocol\DataPacket;
 
 interface PacketType{
 

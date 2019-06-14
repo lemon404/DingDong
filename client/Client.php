@@ -1,20 +1,20 @@
 <?php
 
-namespace lemonade\DingDong\client;
+namespace sashimi\DingDong\client;
 
-use lemonade\DingDong\packets\Packet;
-use lemonade\DingDong\packets\DingPacket;
-use lemonade\DingDong\packets\DongPacket;
+use sashimi\DingDong\packets\Packet;
+use sashimi\DingDong\packets\DingPacket;
+use sashimi\DingDong\packets\DongPacket;
 
-use lemonade\DingDong\packets\protocol\CreateSessionAcceptPacket;
-use lemonade\DingDong\packets\protocol\CreateSessionRequestPacket;
-use lemonade\DingDong\packets\protocol\DataPacket;
-use lemonade\DingDong\packets\protocol\PacketPool;
-use lemonade\DingDong\packets\protocol\PacketType;
+use sashimi\DingDong\packets\protocol\CreateSessionAcceptPacket;
+use sashimi\DingDong\packets\protocol\CreateSessionRequestPacket;
+use sashimi\DingDong\packets\protocol\DataPacket;
+use sashimi\DingDong\packets\protocol\PacketPool;
+use sashimi\DingDong\packets\protocol\PacketType;
 
-use lemonade\DingDong\utils\Utils;
+use sashimi\DingDong\utils\Utils;
 
-use lemonade\DingDong\network\SessionBuilder;
+use sashimi\DingDong\network\SessionBuilder;
 
 class Client{
 

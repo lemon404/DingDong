@@ -1,11 +1,11 @@
 <?php
 
-namespace lemonade\DingDong\network;
+namespace sashimi\DingDong\network;
 
-use lemonade\DingDong\utils\Address;
+use sashimi\DingDong\utils\Address;
 
-use lemonade\DingDong\network\Session;
-use lemonade\DingDong\network\SessionCaretaker;
+use sashimi\DingDong\network\Session;
+use sashimi\DingDong\network\SessionCaretaker;
 
 class SessionBuilder{
 

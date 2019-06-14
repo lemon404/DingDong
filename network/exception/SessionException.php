@@ -1,6 +1,6 @@
 <?php
 
-namespace lemonade\DingDong\network\exception;
+namespace sashimi\DingDong\network\exception;
 
 class SessionException extends \Exception{
 

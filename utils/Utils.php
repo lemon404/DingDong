@@ -1,6 +1,6 @@
 <?php
 
-namespace lemonade\DingDong\utils;
+namespace sashimi\DingDong\utils;
 
 class Utils{
 

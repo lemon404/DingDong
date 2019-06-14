@@ -1,8 +1,8 @@
 <?php
 
-namespace lemonade\DingDong\packets\protocol;
+namespace sashimi\DingDong\packets\protocol;
 
-use lemonade\DingDong\utils\Binary;
+use sashimi\DingDong\utils\Binary;
 
 abstract class DataPacket extends Binary{
 

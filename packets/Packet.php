@@ -1,13 +1,13 @@
 <?php
 
-namespace lemonade\DingDong\packets;
+namespace sashimi\DingDong\packets;
 
-use lemonade\DingDong\utils\Binary;
+use sashimi\DingDong\utils\Binary;
 
-use lemonade\DingDong\packets\protocol\DataPacket;
-use lemonade\DingDong\packets\protocol\PacketPool;
+use sashimi\DingDong\packets\protocol\DataPacket;
+use sashimi\DingDong\packets\protocol\PacketPool;
 
-use lemonade\DingDong\packets\exception\InvaliedPacketException;
+use sashimi\DingDong\packets\exception\InvaliedPacketException;
 
 abstract class Packet extends Binary{
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace lemonade\DingDong\utils;
+namespace sashimi\DingDong\utils;
 
-use lemonade\DingDong\packets\exception;
+use sashimi\DingDong\packets\exception;
 
 class Address{
 

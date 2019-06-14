@@ -1,11 +1,11 @@
 <?php
 
-namespace lemonade\DingDong\packets\protocol;
+namespace sashimi\DingDong\packets\protocol;
 
-use lemonade\DingDong\packets\protocol\CreateAcceptRequestPacket;
-use lemonade\DingDong\packets\protocol\CreateSessionRequestPacket;
-use lemonade\DingDong\packets\protocol\DataPacket;
-use lemonade\DingDong\packets\protocol\PacketType;
+use sashimi\DingDong\packets\protocol\CreateAcceptRequestPacket;
+use sashimi\DingDong\packets\protocol\CreateSessionRequestPacket;
+use sashimi\DingDong\packets\protocol\DataPacket;
+use sashimi\DingDong\packets\protocol\PacketType;
 
 class PacketPool implements PacketType{
 

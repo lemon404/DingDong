@@ -1,10 +1,10 @@
 <?php
 
-namespace lemonade\DingDong\network;
+namespace sashimi\DingDong\network;
 
-use lemonade\DingDong\network\Session;
+use sashimi\DingDong\network\Session;
 
-use lemonade\DingDong\network\exception\SessionException;
+use sashimi\DingDong\network\exception\SessionException;
 
 class SessionCaretaker{
 

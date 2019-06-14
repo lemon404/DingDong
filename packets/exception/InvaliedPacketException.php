@@ -1,6 +1,6 @@
 <?php
 
-namespace lemonade\DingDong\packets\exception;
+namespace sashimi\DingDong\packets\exception;
 
 class InvaliedPacketException extends \Exception{
 

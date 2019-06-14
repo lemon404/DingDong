@@ -1,8 +1,8 @@
 <?php
 
-namespace lemonade\DingDong\packets;
+namespace sashimi\DingDong\packets;
 
-use lemonade\DingDong\packets\Packet;
+use sashimi\DingDong\packets\Packet;
 
 class DongPacket extends Packet{
 
